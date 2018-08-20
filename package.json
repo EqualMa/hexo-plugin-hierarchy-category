@@ -1,0 +1,27 @@
+{
+  "name": "hexo-plugin-hierarchy-category",
+  "description": "A plugin to extend hexo with helpers to process hierarchy categories",
+  "version": "0.0.1",
+  "main": "index",
+  "scripts": {},
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EqualMa/hexo-plugin-hierarchy-category.git"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "category",
+    "hierarchy category"
+  ],
+  "author": {
+    "name": "equalma",
+    "email": "equalma@outlook.com",
+    "url": "https://github.com/EqualMa"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EqualMa/hexo-plugin-hierarchy-category/issues"
+  }
+}
