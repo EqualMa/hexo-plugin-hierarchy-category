@@ -1,7 +1,7 @@
 {
   "name": "hexo-plugin-hierarchy-category",
   "description": "A plugin to extend hexo with helpers to process hierarchy categories",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "index",
   "scripts": {},
   "dependencies": {},
