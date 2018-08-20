@@ -62,7 +62,7 @@ const util = getHCateHelpers(hexo); // hexo is global var.
 
 ### Types
 
-> for detailed type declarations see [*.d.ts of this project](blob/master/index.d.ts)
+> for detailed type declarations see [*.d.ts of this project](index.d.ts)
 
 #### Type `HexoHierarchyCategory`
 
